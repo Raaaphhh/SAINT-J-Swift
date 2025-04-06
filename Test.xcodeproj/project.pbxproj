@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		684950342DA2955500FC2D90 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 684950332DA2955500FC2D90 /* README.md */; };
 		685B72142D9ECF8B00BA72C8 /* FirebaseAuth in Frameworks */ = {isa = PBXBuildFile; productRef = 685B72132D9ECF8B00BA72C8 /* FirebaseAuth */; };
 		685B72162D9ECF8B00BA72C8 /* FirebaseCore in Frameworks */ = {isa = PBXBuildFile; productRef = 685B72152D9ECF8B00BA72C8 /* FirebaseCore */; };
 		689759B02D9FBAA600A4FFD0 /* FirebaseFirestore in Frameworks */ = {isa = PBXBuildFile; productRef = 689759AF2D9FBAA600A4FFD0 /* FirebaseFirestore */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		684950332DA2955500FC2D90 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		68926E532D99C75500921B23 /* Test.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Test.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -43,6 +45,7 @@
 		68926E4A2D99C75500921B23 = {
 			isa = PBXGroup;
 			children = (
+				684950332DA2955500FC2D90 /* README.md */,
 				68926E552D99C75500921B23 /* Test */,
 				68926E542D99C75500921B23 /* Products */,
 			);
@@ -128,6 +131,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				684950342DA2955500FC2D90 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
