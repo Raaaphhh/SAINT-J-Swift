@@ -40,7 +40,7 @@ struct BurgerMenuView: View {
 // VUE PRINCIPALE
 struct LoginView: View {
     @State private var currentImageIndex = 0
-    let imageNames = ["img1", "img2", "img3", "img4", "img5", "img6"]
+    let imageNames = ["img1", "img2", "img3", "img4", "img5"]
     
     @State private var showInstagram = false
     @State private var showLoginForm = false
