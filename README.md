@@ -1,6 +1,8 @@
 
 # 🎮 SAINT-J – Jeu de défis entre amis (iOS)
 
+## EN COURS DE DEVELOPEMENT !!!
+
 **SAINT-J** est une application iOS développée en **SwiftUI**, pensée pour gérer un jeu de défis fun, compétitif et immersif entre amis, notamment pendant les vacances 🌴  
 L’application permet à plusieurs joueurs de se connecter, réaliser des défis avec différents niveaux de difficulté, et suivre leur score en temps réel grâce à **Firebase**.
 
